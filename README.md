@@ -1,4 +1,4 @@
-### Hi friend, welcome to my github page 👋
+### Dear friends, welcome to my github homepage 👋
 
 <!--
 **StevieTaylor/StevieTaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
